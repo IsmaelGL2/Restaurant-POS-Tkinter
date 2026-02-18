@@ -52,8 +52,7 @@ La aplicación permite a un usuario (camarero/cajero) seleccionar los productos 
 
 ## 📸 Capturas de Pantalla
 
-<img width="1034" height="673" alt="image" src="https://github.com/user-attachments/assets/ca17a52c-dee8-464e-a538-42aca0d80df0" />
-
+![Screen-Recording-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/df91e051-b2f3-45de-b6af-814f4e1633c6)
 
 ## 🎯 Aprendizajes y Habilidades Demostradas
 
